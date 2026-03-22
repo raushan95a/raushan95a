@@ -3,21 +3,21 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real+World+Projects;Turning+Ideas+into+Products" />
+  <b>Full Stack Developer | AIML Enthusiast</b>
 </p>
 
 <p align="center">
-  building scalable apps, tools, and impactful systems 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Turning+Ideas+into+Products;Always+Learning+and+Growing;Open+to+Collaboration" />
+</p>
+
+<p align="center">
+  building scalable apps, tools, and impactful systems
 </p>
 
 <p align="center">
   <a href="https://www.raushankr.in/">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-raushankr.in-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-raushankr.in-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
 
 ## 🌐 Socials:
