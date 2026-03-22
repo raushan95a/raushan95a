@@ -1,6 +1,24 @@
-# 💫 About Me:
-🚀 Hey, I'm Raushan Kumar<br><br>🌐 Full Stack Developer | AIML Enthusiast🚀🚀<br><br>💻 B.Tech CSE student passionate about building real-world tech solutions  <br>⚡ Interested in AI, full-stack development, and innovative product ideas  <br><br>I turn ideas into products.<br><br> I believe in learning by doing and growing through failures.  <br>If it’s innovative, useful, and challenging — I’m all in.<br><br>📫 Let’s connect and build something impactful.
+<h1 align="center">
+  Hi 👋, I'm <span style="background: linear-gradient(90deg,#00C9FF,#92FE9D); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Raushan Kumar</span>
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real+World+Projects;Turning+Ideas+into+Products" />
+</p>
+
+<p align="center">
+  building scalable apps, tools, and impactful systems 🚀
+</p>
+
+<p align="center">
+  <a href="https://www.raushankr.in/">
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-raushankr.in-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raushan95a) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_raushan._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raushan95a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Raushan95a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raushankr95a@gmail.com) 
