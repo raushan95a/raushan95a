@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="background: linear-gradient(90deg,#00C9FF,#92FE9D); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Raushan Kumar</span>
+  Hi, I'm <span style="background: linear-gradient(90deg,#00C9FF,#92FE9D); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Raushan Kumar</span>
 </h1>
 
 <p align="center">
