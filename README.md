@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey, I'm Raushan Kumar<br><br>Builder | Learner | Problem Solver<br><br>💻 B.Tech CSE student passionate about building real-world tech solutions  <br>⚡ Interested in AI, full-stack development, and innovative product ideas  <br><br>I turn ideas into products.<br><br>  <br><br>I believe in learning by doing and growing through failures.  <br>If it’s innovative, useful, and challenging — I’m all in.<br><br>📫 Let’s connect and build something impactful.
+🚀 Hey, I'm Raushan Kumar<br><br>🌐 Full Stack Developer | AIML Enthusiast🚀🚀<br><br>💻 B.Tech CSE student passionate about building real-world tech solutions  <br>⚡ Interested in AI, full-stack development, and innovative product ideas  <br><br>I turn ideas into products.<br><br> I believe in learning by doing and growing through failures.  <br>If it’s innovative, useful, and challenging — I’m all in.<br><br>📫 Let’s connect and build something impactful.
 
 
 ## 🌐 Socials:
